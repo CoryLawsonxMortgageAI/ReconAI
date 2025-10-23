@@ -1,0 +1,510 @@
+{
+  "test_date": "2025-10-22T23:02:10.577241",
+  "total_states": 50,
+  "passed": 50,
+  "failed": 0,
+  "success_rate": 100.0,
+  "execution_time_seconds": 0.002272,
+  "results": [
+    {
+      "state_code": "AL",
+      "state_name": "Alabama",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "AK",
+      "state_name": "Alaska",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "AZ",
+      "state_name": "Arizona",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "AR",
+      "state_name": "Arkansas",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "CA",
+      "state_name": "California",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "CO",
+      "state_name": "Colorado",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "CT",
+      "state_name": "Connecticut",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "DE",
+      "state_name": "Delaware",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "FL",
+      "state_name": "Florida",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "GA",
+      "state_name": "Georgia",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "HI",
+      "state_name": "Hawaii",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "ID",
+      "state_name": "Idaho",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "IL",
+      "state_name": "Illinois",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "IN",
+      "state_name": "Indiana",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "IA",
+      "state_name": "Iowa",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "KS",
+      "state_name": "Kansas",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "LA",
+      "state_name": "Louisiana",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "ME",
+      "state_name": "Maine",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MD",
+      "state_name": "Maryland",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MA",
+      "state_name": "Massachusetts",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MI",
+      "state_name": "Michigan",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MN",
+      "state_name": "Minnesota",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MS",
+      "state_name": "Mississippi",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MO",
+      "state_name": "Missouri",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "MT",
+      "state_name": "Montana",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NE",
+      "state_name": "Nebraska",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NV",
+      "state_name": "Nevada",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NH",
+      "state_name": "New Hampshire",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NJ",
+      "state_name": "New Jersey",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NM",
+      "state_name": "New Mexico",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NY",
+      "state_name": "New York",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "NC",
+      "state_name": "North Carolina",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "ND",
+      "state_name": "North Dakota",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "OH",
+      "state_name": "Ohio",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "OK",
+      "state_name": "Oklahoma",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "OR",
+      "state_name": "Oregon",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "PA",
+      "state_name": "Pennsylvania",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "RI",
+      "state_name": "Rhode Island",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "SC",
+      "state_name": "South Carolina",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "SD",
+      "state_name": "South Dakota",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "TN",
+      "state_name": "Tennessee",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "TX",
+      "state_name": "Texas",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "UT",
+      "state_name": "Utah",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "VT",
+      "state_name": "Vermont",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "VA",
+      "state_name": "Virginia",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "WA",
+      "state_name": "Washington",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "WV",
+      "state_name": "West Virginia",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "WI",
+      "state_name": "Wisconsin",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    },
+    {
+      "state_code": "WY",
+      "state_name": "Wyoming",
+      "status": "PASSED",
+      "criminal_sources": 3,
+      "court_sources": 3,
+      "state_specific_criminal": true,
+      "state_specific_court": true,
+      "error": null
+    }
+  ]
+}

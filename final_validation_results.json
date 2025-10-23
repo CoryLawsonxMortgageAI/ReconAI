@@ -1,0 +1,144 @@
+{
+  "target": "Christopher Anderson",
+  "state": "CA",
+  "dob": "1982-04-25",
+  "timestamp": "2025-10-23T02:30:40.282031",
+  "identity": {
+    "parsed_name": {
+      "full_name": "Christopher Anderson",
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Anderson",
+      "suffix": ""
+    }
+  },
+  "criminal_records": [
+    {
+      "source": "NSOPW",
+      "status": "No records found",
+      "note": "Searched National Sex Offender Registry",
+      "search_date": "2025-10-23T02:30:40.282042"
+    },
+    {
+      "source": "Federal Bureau of Prisons",
+      "status": "Search completed",
+      "note": "No federal inmates found matching name",
+      "search_date": "2025-10-23T02:30:40.282046"
+    },
+    {
+      "source": "California Department of Justice",
+      "state": "CA",
+      "status": "Search completed",
+      "note": "State criminal records search for CA",
+      "access": "Requires official background check request",
+      "search_date": "2025-10-23T02:30:40.282050"
+    }
+  ],
+  "court_cases": [
+    {
+      "source": "PACER (Federal Courts)",
+      "status": "Available",
+      "note": "Federal court records available via PACER account",
+      "url": "https://pacer.uscourts.gov",
+      "access": "Requires PACER account (fee-based)",
+      "search_date": "2025-10-23T02:30:40.282053"
+    },
+    {
+      "source": "CA State Courts",
+      "state": "CA",
+      "status": "Available",
+      "url": "https://www.courts.ca.gov/",
+      "note": "State court records may be available online",
+      "search_date": "2025-10-23T02:30:40.282057"
+    },
+    {
+      "source": "County Courts",
+      "status": "Available",
+      "note": "County court records available at local clerk of court offices",
+      "access": "Visit county courthouse or online portal if available",
+      "search_date": "2025-10-23T02:30:40.282059"
+    }
+  ],
+  "professional_info": {
+    "linkedin": {
+      "search_url": "https://www.linkedin.com/search/results/people/?keywords=Christopher%20Anderson",
+      "note": "LinkedIn profiles may be available",
+      "access": "Requires LinkedIn account for full access"
+    },
+    "professional_licenses": [
+      {
+        "type": "Medical License",
+        "source": "State Medical Boards",
+        "note": "Search state medical board databases",
+        "example_urls": [
+          "https://www.fsmb.org/fcvs/",
+          "State-specific medical board websites"
+        ]
+      },
+      {
+        "type": "Legal License",
+        "source": "State Bar Associations",
+        "note": "Search state bar association databases",
+        "example_urls": [
+          "State bar association websites"
+        ]
+      }
+    ],
+    "certifications": [],
+    "publications": []
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/search/people/?q=Christopher+Anderson",
+    "twitter": "https://twitter.com/search?q=Christopher+Anderson",
+    "instagram": "https://www.instagram.com/explore/tags/ChristopherAnderson",
+    "tiktok": null,
+    "youtube": null
+  },
+  "public_records": {
+    "vital_records": {
+      "state": "CA",
+      "note": "Vital records (birth, death, marriage, divorce) available from state vital records office",
+      "access": "Requires official request with valid reason"
+    },
+    "marriage_records": [],
+    "divorce_records": [],
+    "death_records": [],
+    "birth_records": []
+  },
+  "addresses": [],
+  "relatives": [],
+  "employment": [],
+  "education": [],
+  "voter_registration": {
+    "status": "Available in some states",
+    "note": "Voter registration records are public in many states",
+    "access": "Contact state election office or county registrar",
+    "state": "CA",
+    "contact": "CA Secretary of State - Elections Division"
+  },
+  "property_records": [
+    {
+      "source": "County Assessor / Property Appraiser",
+      "status": "Public records available",
+      "note": "Property records are public and available at county level",
+      "access": "County property appraiser or assessor website",
+      "search_date": "2025-10-23T02:30:40.282073"
+    }
+  ],
+  "business_registrations": [
+    {
+      "source": "CA Secretary of State - Business Division",
+      "status": "Public records available",
+      "note": "Business registrations, DBAs, and corporate filings are public",
+      "access": "State Secretary of State website",
+      "search_date": "2025-10-23T02:30:40.282076"
+    },
+    {
+      "source": "SEC EDGAR Database",
+      "status": "Public records available",
+      "note": "Public company filings and executive information",
+      "url": "https://www.sec.gov/edgar/searchedgar/companysearch.html",
+      "search_date": "2025-10-23T02:30:40.282078"
+    }
+  ]
+}

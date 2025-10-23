@@ -1,0 +1,42 @@
+[
+  {
+    "test_case": "Test Case 1: California with DOB",
+    "status": "PASSED",
+    "total_sources": 12,
+    "criminal_sources": 3,
+    "court_sources": 3,
+    "error": null
+  },
+  {
+    "test_case": "Test Case 2: Texas without DOB",
+    "status": "PASSED",
+    "total_sources": 12,
+    "criminal_sources": 3,
+    "court_sources": 3,
+    "error": null
+  },
+  {
+    "test_case": "Test Case 3: Florida with DOB",
+    "status": "PASSED",
+    "total_sources": 12,
+    "criminal_sources": 3,
+    "court_sources": 3,
+    "error": null
+  },
+  {
+    "test_case": "Test Case 4: Illinois without state",
+    "status": "PASSED",
+    "total_sources": 9,
+    "criminal_sources": 2,
+    "court_sources": 2,
+    "error": null
+  },
+  {
+    "test_case": "Test Case 5: Pennsylvania with middle name",
+    "status": "PASSED",
+    "total_sources": 12,
+    "criminal_sources": 3,
+    "court_sources": 3,
+    "error": null
+  }
+]

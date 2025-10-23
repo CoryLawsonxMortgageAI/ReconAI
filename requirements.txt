@@ -1,0 +1,8 @@
+aiohttp==3.13.1
+dnspython==2.8.0
+fastapi==0.111.0
+openai==2.6.0
+python-whois==0.9.6
+SQLAlchemy==2.0.44
+uvicorn==0.30.1
+

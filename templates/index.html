@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReconAI - OSINT Intelligence Platform</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <h1>⚡ ReconAI</h1>
+                <p class="tagline">OSINT Intelligence Platform</p>
+            </div>
+            <nav>
+                <a href="#" class="nav-link active">Dashboard</a>
+                <a href="#" class="nav-link">Scans</a>
+                <a href="#" class="nav-link">Reports</a>
+                <a href="#" class="nav-link">Settings</a>
+            </nav>
+        </header>
+
+        <main>
+            <section class="scan-section">
+                <div class="card">
+                    <h2>New Reconnaissance Scan</h2>
+                    <form id="scanForm">
+                        <div class="form-group">
+                            <label for="target">Target Domain or IP</label>
+                            <input type="text" id="target" name="target" placeholder="example.com" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="scanType">Scan Type</label>
+                            <select id="scanType" name="scanType">
+                                <option value="full">Full Scan (All Modules)</option>
+                                <option value="quick">Quick Scan (Domain + Web)</option>
+                                <option value="custom">Custom Modules</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group" id="moduleSelection" style="display: none;">
+                            <label>Select Modules</label>
+                            <div class="checkbox-group">
+                                <label><input type="checkbox" name="modules" value="domain" checked> Domain Intelligence</label>
+                                <label><input type="checkbox" name="modules" value="web" checked> Web Intelligence</label>
+                                <label><input type="checkbox" name="modules" value="network"> Network Intelligence</label>
+                                <label><input type="checkbox" name="modules" value="social"> Social Intelligence</label>
+                                <label><input type="checkbox" name="modules" value="threat"> Threat Intelligence</label>
+                            </div>
+                        </div>
+                        
+                        <button type="submit" class="btn-primary" id="startScanBtn">
+                            <span class="btn-text">Start Reconnaissance</span>
+                            <span class="btn-loader" style="display: none;">⟳ Scanning...</span>
+                        </button>
+                    </form>
+                </div>
+            </section>
+
+            <section class="results-section" id="resultsSection" style="display: none;">
+                <div class="card">
+                    <h2>Scan Results</h2>
+                    <div id="scanResults"></div>
+                </div>
+                
+                <div class="card">
+                    <h2>AI Analysis</h2>
+                    <div id="aiAnalysis"></div>
+                </div>
+            </section>
+
+            <section class="stats-section">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-value" id="totalScans">0</div>
+                        <div class="stat-label">Total Scans</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="completedScans">0</div>
+                        <div class="stat-label">Completed</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="totalFindings">0</div>
+                        <div class="stat-label">Findings</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="recent-scans">
+                <div class="card">
+                    <h2>Recent Scans</h2>
+                    <div id="recentScansList"></div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>ReconAI v1.0 - Defensive Security Testing Suite</p>
+            <p class="warning">⚠️ For authorized security testing only. Unauthorized use is prohibited.</p>
+        </footer>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
+
